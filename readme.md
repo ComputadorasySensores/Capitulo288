@@ -7,5 +7,5 @@ El código está escrito para Raspberry Pico W ó Pico 2 W en ambos funciona igu
 
 # Paso a paso
 
-La explicación completa la podrás ver en el siguiente video de Youtube:
+La explicación completa la podrás ver en el siguiente video de YouTube:
 https://youtu.be/
